@@ -38,3 +38,8 @@ Loki,adopt,tools,FALSE,""
 Postman,adopt,tools,FALSE,""
 Gitlab,adopt,tools,FALSE,""
 Webpack,adopt,tools,FALSE,""
+
+
+CI/CD,adopt,techniques,FALSE,""
+TDD,adopt,techniques,FALSE,""
+IaC,adopt,techniques,FALSE,""
